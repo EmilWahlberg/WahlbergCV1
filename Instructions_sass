@@ -1,0 +1,10 @@
+Open terminal
+'npm init'
+Press enter and write description
+Open package.json
+'npm install node-sass -D'
+Change 'test....'
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+Save
+'npm run sass'
+Now it compiles directly into the css folder

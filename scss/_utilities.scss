@@ -1,0 +1,107 @@
+// Heading sizes
+.s-heading {
+  font-size: 3rem;
+}
+.m-heading {
+  font-size: 4rem;
+}
+.l-heading {
+  font-size: 7rem;
+}
+
+// Padding classes
+
+.py-1 {
+  padding: 0.75rem 0 0.75rem 0;
+}
+
+.py-2 {
+  padding: 1.5rem 0 1.5rem 0;
+}
+
+.py-3 {
+  padding: 3rem 0 3rem 0;
+}
+
+.p-y-1 {
+  padding: 0 0 1rem 0;
+}
+
+.p-1 {
+  padding: 0.75;
+}
+
+.px-1 {
+  padding: 0 0.5rem;
+}
+
+// margin classes
+.m-1 {
+  margin: 1rem;
+}
+
+.my-1 {
+  margin: 0.75rem auto;
+}
+
+.mx-1 {
+  margin: 0 0.35rem;
+}
+
+// Main-container
+.main-container {
+  overflow: hidden;
+  margin: auto;
+}
+
+.bottom-line {
+  width: 10rem;
+  height: 2px;
+  background: $secondary-color;
+  margin: 3rem auto 0rem auto;
+}
+
+.bottom-line2 {
+  width: 13rem;
+  height: 2px;
+  background: $secondary-color;
+  margin: 0.2rem auto 0rem auto;
+}
+
+// Text align
+.txt-algn {
+  text-align: center;
+}
+
+// logo
+#logo {
+  max-height: 550px;
+  padding-top: 2rem;
+}
+
+.img-size {
+  width: 400px;
+  height: 400px;
+}
+
+// Bg-color
+
+.bg-color1 {
+  background: #f89e8fff;
+  border-radius: 2px;
+}
+
+.bg-color2 {
+  background: #2b3040ff;
+  border-radius: 2px;
+}
+
+.bg-color3 {
+  background: #626e92;
+  border-radius: 2px;
+}
+
+// Logo color
+.logo-color {
+  color: #626e92;
+}
