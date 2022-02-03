@@ -372,7 +372,10 @@ body {
     transition: color; }
   .pic-container .txt:hover {
     transform: scale(2);
-    opacity: 0.8; }
+    opacity: 0.8; 
+    pointer: cursor;
+
+}
 
 #test {
   color: #f2f0e6;
