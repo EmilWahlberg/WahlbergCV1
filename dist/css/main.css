@@ -373,8 +373,6 @@ body {
   .pic-container .txt:hover {
     transform: scale(2);
     opacity: 0.8; 
-    pointer: cursor;
-
 }
 
 #test {
